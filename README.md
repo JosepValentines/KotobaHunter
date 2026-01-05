@@ -8,6 +8,8 @@ Based on this analysis, the application tracks appearance frequency of words and
 The app also provides readings and meanings for detected vocabulary and kanji, allowing users to easily look up linguistic information within the application.
 Additionally, the app offers the ability to export selected words and kanji as CSV files or add them directly to Anki decks, enabling seamless integration with spaced-repetition study workflows.
 
+Download: https://github.com/JosepValentines/KotobaHunter/releases/tag/Debug
+
 🛠 Technologies & Libraries Used
 Image cropping functionality implemented using the uCrop library
 On-device OCR (Optical Character Recognition) using Google ML Kit
